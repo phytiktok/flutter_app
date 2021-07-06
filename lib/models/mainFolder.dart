@@ -21,13 +21,13 @@ List<MainFolderWidget> listMainFolder = [
       screen: MyPhone()
       // screen: Container(child: Text("PHONE"))
       ),
-  MainFolderWidget(
-      // icon: Icons.favorite,
-      icon: Icon(
-        Icons.favorite,
-        size: 24.0,
-        semanticLabel: 'Text to announce in accessibility modes',
-      ),
-      title: 'My Phone',
-      screen: Container(child: Text("DIFFERENCE"))),
+  // MainFolderWidget(
+  //     // icon: Icons.favorite,
+  //     icon: Icon(
+  //       Icons.favorite,
+  //       size: 24.0,
+  //       semanticLabel: 'Text to announce in accessibility modes',
+  //     ),
+  //     title: 'My Phone',
+  //     screen: Container(child: Text("DIFFERENCE"))),
 ];
